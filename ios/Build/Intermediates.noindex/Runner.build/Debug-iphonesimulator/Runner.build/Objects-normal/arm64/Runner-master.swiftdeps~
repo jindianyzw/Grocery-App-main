@@ -1,6 +1,0 @@
-version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
-options: "0e27ad0bd08c80cde022b80d5e840328e1fa441e4311a293e2f90d46ea44a8af"
-build_start_time: [1686704279, 587972000]
-build_end_time: [1686704279, 684778000]
-inputs:
-  "/Users/yezewei/Desktop/F/Grocery-App-main/ios/Runner/AppDelegate.swift": !private [1657728512, 0]
